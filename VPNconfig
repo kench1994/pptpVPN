@@ -1,0 +1,16 @@
+{
+  "vpn1": 
+    {
+      "VpnName": "vpn",
+      "ServerIp": "104.207.148.80",
+      "UserName": "vpn4589",
+      "PassWorld": "vpntm"
+    },
+  "vpn2":
+    {
+      "VpnName": "vpn2|",
+      "ServerIp": "1.1.1.1",
+      "UserName": "x1x",
+      "PassWorld": "x2x"
+    }
+}
